@@ -15,5 +15,6 @@ Date | Git Tag | Who Deleted | Short Summary | Details |
 
 This is `backticks`.
 
-Indentation:
+Indentation: (note the blank line prior to the indentation)
+
     This is indented 4 spaces.
